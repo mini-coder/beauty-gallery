@@ -10,9 +10,9 @@
 		877A85791B32C700008FB47A /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877A85781B32C700008FB47A /* GalleryViewController.swift */; };
 		877A857B1B32C987008FB47A /* ViewControllerExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 877A857A1B32C987008FB47A /* ViewControllerExtension.swift */; };
 		87C74CCE1B62947300EED604 /* KoreanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87C74CCD1B62947300EED604 /* KoreanViewController.swift */; };
-		87C74CD41B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 87C74CD11B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.04.png */; };
-		87C74CD51B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.29.png in Resources */ = {isa = PBXBuildFile; fileRef = 87C74CD21B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.29.png */; };
-		87C74CD61B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.15.png in Resources */ = {isa = PBXBuildFile; fileRef = 87C74CD31B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.15.png */; };
+		87C74CD41B629BFF00EED604 /* index.png in Resources */ = {isa = PBXBuildFile; fileRef = 87C74CD11B629BFF00EED604 /* index.png */; };
+		87C74CD51B629BFF00EED604 /* view2.png in Resources */ = {isa = PBXBuildFile; fileRef = 87C74CD21B629BFF00EED604 /* view2.png */; };
+		87C74CD61B629BFF00EED604 /* view0.png in Resources */ = {isa = PBXBuildFile; fileRef = 87C74CD31B629BFF00EED604 /* view0.png */; };
 		87E0EC041B31866300B1457D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E0EC031B31866300B1457D /* AppDelegate.swift */; };
 		87E0EC061B31866300B1457D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87E0EC051B31866300B1457D /* ViewController.swift */; };
 		87E0EC091B31866300B1457D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87E0EC071B31866300B1457D /* Main.storyboard */; };
@@ -35,9 +35,9 @@
 		877A85781B32C700008FB47A /* GalleryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
 		877A857A1B32C987008FB47A /* ViewControllerExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerExtension.swift; sourceTree = "<group>"; };
 		87C74CCD1B62947300EED604 /* KoreanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KoreanViewController.swift; sourceTree = "<group>"; };
-		87C74CD11B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "屏幕快照 2015-07-25 00.11.04.png"; path = "../../../../Desktop/屏幕快照 2015-07-25 00.11.04.png"; sourceTree = "<group>"; };
-		87C74CD21B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "屏幕快照 2015-07-25 00.11.29.png"; path = "../../../../Desktop/屏幕快照 2015-07-25 00.11.29.png"; sourceTree = "<group>"; };
-		87C74CD31B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "屏幕快照 2015-07-25 00.11.15.png"; path = "../../../../Desktop/屏幕快照 2015-07-25 00.11.15.png"; sourceTree = "<group>"; };
+		87C74CD11B629BFF00EED604 /* index.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = index.png; path = ../../../../Desktop/index.png; sourceTree = "<group>"; };
+		87C74CD21B629BFF00EED604 /* view2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = view2.png; path = ../../../../Desktop/view2.png; sourceTree = "<group>"; };
+		87C74CD31B629BFF00EED604 /* view0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = view0.png; path = ../../../../Desktop/view0.png; sourceTree = "<group>"; };
 		87E0EBFE1B31866300B1457D /* BeautyGallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeautyGallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87E0EC021B31866300B1457D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87E0EC031B31866300B1457D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,9 +81,9 @@
 		87C74CD01B629BCA00EED604 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				87C74CD11B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.04.png */,
-				87C74CD21B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.29.png */,
-				87C74CD31B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.15.png */,
+				87C74CD11B629BFF00EED604 /* index.png */,
+				87C74CD21B629BFF00EED604 /* view2.png */,
+				87C74CD31B629BFF00EED604 /* view0.png */,
 			);
 			name = Screenshots;
 			sourceTree = "<group>";
@@ -227,11 +227,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				87E0EC091B31866300B1457D /* Main.storyboard in Resources */,
-				87C74CD51B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.29.png in Resources */,
+				87C74CD51B629BFF00EED604 /* view2.png in Resources */,
 				87E0EC0E1B31866300B1457D /* LaunchScreen.xib in Resources */,
-				87C74CD61B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.15.png in Resources */,
+				87C74CD61B629BFF00EED604 /* view0.png in Resources */,
 				87E0EC0B1B31866300B1457D /* Images.xcassets in Resources */,
-				87C74CD41B629BFF00EED604 /* 屏幕快照 2015-07-25 00.11.04.png in Resources */,
+				87C74CD41B629BFF00EED604 /* index.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
